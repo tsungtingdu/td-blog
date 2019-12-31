@@ -14,7 +14,7 @@ timezone: Asia/Singapore
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: 'http://localhost:4000'
-root: /
+root: /td-blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
