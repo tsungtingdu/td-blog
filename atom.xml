@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TD&#39;s note</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://tsungtingdu.github.io/td-blog/"/>
+  <updated>2019-12-31T09:06:47.912Z</updated>
+  <id>https://tsungtingdu.github.io/td-blog/</id>
+  
+  <author>
+    <name>Tsung Ting Tu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Start</title>
+    <link href="https://tsungtingdu.github.io/td-blog/2019/12/31/Start/"/>
+    <id>https://tsungtingdu.github.io/td-blog/2019/12/31/Start/</id>
+    <published>2019-12-31T08:51:33.000Z</published>
+    <updated>2019-12-31T09:06:47.912Z</updated>
+    
+    <content type="html"><![CDATA[<p>在 2019 年的最後一天，學會用 Hexo 架了一個自己的 blog。這已經不知道是我第幾次開 blog 了，不過這次選用 Hexo 的原因，主要是希望能夠用 markdown 來撰寫，另一方面，文章可以同步在本地端以及 Github 上有備份。</p><p>期待 2020 以及未來的日子，可以在這裡勤快地記錄下我的學習，以及大大小小我想要紀錄的事情。</p><p>既然是 2019 年最後一天，不如就先來寫寫今年回顧吧</p><h3 id="2019-年回顧"><a href="#2019-年回顧" class="headerlink" title="2019 年回顧"></a>2019 年回顧</h3><p><em>…To be continued</em></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在 2019 年的最後一天，學會用 Hexo 架了一個自己的 blog。這已經不知道是我第幾次開 blog 了，不過這次選用 Hexo 的原因，主要是希望能夠用 markdown 來撰寫，另一方面，文章可以同步在本地端以及 Github 上有備份。&lt;/p&gt;
+&lt;p&gt;期待 20
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
