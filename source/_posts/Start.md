@@ -52,7 +52,7 @@ tags:
 
 #### 定義 Product Market Fit
 
-最初要協助團隊重新定義產品的 product market fit，做了一些研究與使用者調查後，回歸到原先的 prodduct roadmap 上，先共同定義出產品最重要的 metrics，以及討論針對特定 problem base 的 new ideas。最後發起 product meeting，讓團隊中每個人都能參與產品發展的討論，並有更高的視角去觀察與思考產品的未來
+最初要協助團隊重新定義產品的 product market fit，做了一些研究與使用者調查後，回歸到原先的 product roadmap 上，先共同定義出產品最重要的 metrics，以及討論針對特定 problem base 的 new ideas。最後發起 product meeting，讓團隊中每個人都能參與產品發展的討論，並有更高的視角去觀察與思考產品的未來
 
 對我來說這是一個很特別的任務，在團隊中沒有人知道該怎麼做，因此需要自己去定義問題並尋找出路。一路上常常質問自己「到底有沒有問對問題？」，研究與討論過程中也看到許多公司對於產品的想法，但要如何將那些想法應用在自家的產品上，中間需要跟團隊成員有很多的討論、意見交流，並凝聚共識
 
