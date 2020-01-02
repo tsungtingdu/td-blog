@@ -1,10 +1,8 @@
 ---
-title: Data Structure & Algorithms - Big O
+title: About Big O
 date: 2020-01-02 21:28:02
 tags:
 ---
-
-## About Big O
 
 #### Note
 
@@ -49,8 +47,8 @@ O(n^2)
 const array = ['a', 'b', 'c', 'd', 'e']
 
 function logAllPairs (array) {
-  for (let i = 0; i < array.lenght-1; i++) {
-    for (let j = 0; j < array.lenght-1; j++) {
+  for (let i = 0; i < array.length-1; i++) {
+    for (let j = 0; j < array.length-1; j++) {
       console.log(array[i], array[j])
     }
   }
