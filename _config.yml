@@ -105,12 +105,3 @@ archive_generator:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
-
-# Facebook comments - https://github.com/RichardJECooke/hexo-fbcomments/
-fbcomments:
-  appId: 1456649641099630 # <---- TODO
-  colorscheme: dark # (optional) light/dark
-  enabled: true # (optional) true/false
-  lang: en_US # (optional)
-  order_by: time  # (optional) time/reverse_time/social
-  numPosts: 10 # (optional) defaults to 5
