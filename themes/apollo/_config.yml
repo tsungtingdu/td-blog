@@ -11,12 +11,12 @@ logo: /favicon.png
 
 # Comment
 # e.g disqus: seansun
-disqus: 
+disqus: seansun
 duoshuo:
 
 # Analytics
 # google-analytics:
-# ga: UA-xxxxxxxx-x
+ga: UA-155266193-1
 
 # Copyright Infomation
 startyear: 2019
