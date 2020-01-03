@@ -37,7 +37,7 @@ tags:
 * 關於存放位置
   * stack
   * heap
-  * globle
+  * global
 
 #### Reference
 * [Data Structures — Language Support (Part 3)](https://medium.com/omarelgabrys-blog/data-structures-language-support-5f70f8312e84)
