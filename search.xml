@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>About data structure</title>
+      <link href="/td-blog/2020/01/03/data-structures-algorithms-2/"/>
+      <url>/td-blog/2020/01/03/data-structures-algorithms-2/</url>
+      
+        <content type="html"><![CDATA[<h4 id="note"><a href="#note" class="headerlink" title="note"></a>note</h4><ul><li>不同的 data structure 就像是不同的容器，在不同的用途上有各自的優點與缺點</li><li>常見的 data structure 有<ul><li>array</li><li>stacks</li><li>queues</li><li>linked list</li><li>trees</li><li>tries</li><li>graphs</li><li>hash tables</li></ul></li><li>Fundamental behaviors<ul><li>access</li><li>insert</li><li>delete</li><li>find</li><li>sort</li><li>traverse</li></ul></li><li>並不是每一種程式語言都有內建所有的 data structure，但假如沒有，其實也可以自己建立新的 data structure</li></ul><h4 id="Memory"><a href="#Memory" class="headerlink" title="Memory"></a>Memory</h4><ul><li>A collection of 8 bits is called a byte</li><li>CPU 存取 RAM 的資料需要透過 Memory Controller Chip 來存取</li><li>儲存資料的地方有<ul><li>Registers</li><li>On-Chip Cache</li><li>Second Level Cache</li><li>Main Memory (DRAM)</li><li>Secondary Storage (Disk)</li><li>Teritory Storage (Tape)</li></ul></li><li>關於存放位置<ul><li>stack</li><li>heap</li><li>globle</li></ul></li></ul><h4 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h4><ul><li><a href="https://medium.com/omarelgabrys-blog/data-structures-language-support-5f70f8312e84" target="_blank" rel="noopener">Data Structures — Language Support (Part 3)</a></li><li><a href="https://medium.com/omarelgabrys-blog/algorithms-data-structures-series-85ec94eb8aff" target="_blank" rel="noopener">Algorithms &amp; Data Structures Series</a></li><li><a href="https://www.youtube.com/watch?v=fpnE6UAfbtU" target="_blank" rel="noopener">Registers and RAM: Crash Course Computer Science #6</a></li><li><a href="https://www.youtube.com/watch?v=PVad0c2cljo" target="_blank" rel="noopener">RAM Explained - Random Access Memory</a></li><li><a href="http://wsfdl.com/linux/2016/06/11/%E7%90%86%E8%A7%A3CPU%E7%9A%84cache.html" target="_blank" rel="noopener">理解 CPU Cache</a></li><li><a href="https://inst.eecs.berkeley.edu/~cs162/archives.html" target="_blank" rel="noopener">CS162 Operating Systems and Systems Programming</a></li><li><a href="https://nwpie.blogspot.com/2017/05/5-stack-heap.html" target="_blank" rel="noopener">[探索 5 分鐘] stack 與 heap 的底層概念</a></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>About Big O</title>
       <link href="/td-blog/2020/01/02/data-structures-algorithms-1/"/>
       <url>/td-blog/2020/01/02/data-structures-algorithms-1/</url>
