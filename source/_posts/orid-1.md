@@ -36,8 +36,8 @@ tags:
 下週預計進度
 * Master the Coding Interview: 看完 `Linked List`, `Stacks + Queues`, `Trees`, `Graphs`
 * Node.js 8 the Right Way: 看完 `Connecting Robust Microservices`
+* 瞭解電腦如何建立連線 (TCP/IP 連線)
 * 看一下 JavaScript: Understanding the Weird Parts
-Your progress
 * 看一下 AC 畢業考技術考題
 * 找一下 database 相關的學習資源
 * 重新思考一下學習內容與進度安排。如果按照目前看到的 scope 跟速度，應該無法在預期的時間點出關。學習固然開心，但是還是需要目標導向。 `我認為需要找到特定的議題/問題`
