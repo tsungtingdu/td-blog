@@ -13,7 +13,7 @@ tags:
   * slow key iteration
   * increase space complexity
 
-#### Create an array
+#### Create a hash table
 ```js
 class HashTable {
   constructor(size) {
