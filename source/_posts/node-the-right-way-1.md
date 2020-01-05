@@ -100,10 +100,10 @@ Node.js 的特色是 single-thread，但是如果有需要也可以額外開出 
 // app.js
 const childProcess = spawn('node', ['app2.js'])
 ```
-因此用 `node app.js` 啟動 server 時，同步也會啟動 `node app2.js`
+因此用 `node app.js` 啟動 server 時，同步也會執行 `node app2.js`
 
-#### JS
-  * arrow functions have another big advantage over their ancestral counterparts: they do not createa new scope for **this**
+#### Others
+  * arrow functions have another big advantage over their ancestral counterparts: they do not create a new scope for **this**
 
 ***
 #### Reference
