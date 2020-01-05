@@ -1,12 +1,12 @@
 ---
-title: Data structure - hash
+title: Data structure - hash table
 date: 2020-01-05 17:30:09
 tags:
 ---
 
 #### note
 * Pros
-  * 和 array 比起來，hash table 的優勢在 `insert` 和 `delete` ，都是 O(1)，但是如果遇到 collisions 的狀況，就會可能變成 O(n)
+  * 和 array 比起來，hash table 的優勢在 `insert` 和 `delete` ，都是 O(1)，但是如果遇到 collisions 的狀況，就可能變成 O(n)
   * improve time complexity
 * Cons
   * unordered
