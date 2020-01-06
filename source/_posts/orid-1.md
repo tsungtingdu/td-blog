@@ -10,7 +10,8 @@ tags:
 - Algorithm
 ---
 
-*2020/01/01 - 2020/01/05*
+#### Period
+2020/01/01 - 2020/01/05
 
 #### Objective
 * [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/): 看完了 5 個 sections，包含 `Introduction`, `Big O`, `Data Structures: Introduction`, `Arrays`, `Hash Tables` 
