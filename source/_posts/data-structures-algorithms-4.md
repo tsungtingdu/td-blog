@@ -2,6 +2,8 @@
 title: Data structure - hash table
 date: 2020-01-05 17:30:09
 tags:
+- JavaScript
+- Data Structure
 ---
 
 #### note

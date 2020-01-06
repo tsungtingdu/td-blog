@@ -2,6 +2,8 @@
 title: Data structure - array
 date: 2020-01-03 14:16:12
 tags:
+- JavaScript
+- Data Structure
 ---
 
 #### note

@@ -2,6 +2,8 @@
 title: About Node.js (1)
 date: 2020-01-04 12:40:54
 tags:
+- Node.js
+- JavaScript
 ---
 
 #### note

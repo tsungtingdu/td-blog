@@ -1,7 +1,13 @@
 ---
 title: ORID (1)
 date: 2020-01-05 23:48:51
-tags:
+tags: 
+- ORID
+- Reviews
+- JavaScript
+- Node.js
+- Data Structure
+- Algorithm
 ---
 
 *2020/01/01 - 2020/01/05*

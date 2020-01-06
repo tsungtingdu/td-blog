@@ -2,6 +2,8 @@
 title: About Big O
 date: 2020-01-02 21:28:02
 tags:
+- JavaScript
+- Data Structure
 ---
 
 #### Note

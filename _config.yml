@@ -105,3 +105,11 @@ archive_generator:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+# hexo-tag-cloud
+tag_cloud:
+  textFont: 'Trebuchet MS, Helvetica'
+  textColor: '#5d2bff'
+  textHeight: 40
+  outlineColor: '#E2E1D1'
+  maxSpeed: 0.5 # range from [0.01 ~ 1]
