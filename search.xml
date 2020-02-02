@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>Sorting</title>
+      <link href="/td-blog/2020/02/02/data-structures-algorithms-9/"/>
+      <url>/td-blog/2020/02/02/data-structures-algorithms-9/</url>
+      
+        <content type="html"><![CDATA[<h4 id="Bubble-sort"><a href="#Bubble-sort" class="headerlink" title="Bubble sort"></a>Bubble sort</h4><ul><li>較不效率的 sorting</li><li>space complexity 低</li></ul><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">bubbleSort</span>(<span class="params">array</span>) </span>&#123;</span><br><span class="line">  <span class="keyword">for</span> (<span class="keyword">let</span> j = <span class="number">0</span>; j &lt; array.length - <span class="number">1</span>; j++) &#123;</span><br><span class="line">    <span class="keyword">for</span> (<span class="keyword">let</span> i = <span class="number">0</span>; i &lt; array.length - j - <span class="number">1</span>; i++) &#123;</span><br><span class="line">      <span class="keyword">if</span> (array[i] &gt; array[i + <span class="number">1</span>]) &#123;</span><br><span class="line">        <span class="keyword">let</span> temp = array[i]</span><br><span class="line">        array[i] = array[i + <span class="number">1</span>]</span><br><span class="line">        array[i + <span class="number">1</span>] = temp</span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">  <span class="keyword">return</span> array</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>(to be continued)</p><h4 id="Selection-sort"><a href="#Selection-sort" class="headerlink" title="Selection sort"></a>Selection sort</h4><h4 id="Insertion-sort"><a href="#Insertion-sort" class="headerlink" title="Insertion sort"></a>Insertion sort</h4><h4 id="Merge-sort"><a href="#Merge-sort" class="headerlink" title="Merge sort"></a>Merge sort</h4><h4 id="Quick-sort"><a href="#Quick-sort" class="headerlink" title="Quick sort"></a>Quick sort</h4><h4 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h4><ul><li><a href="https://www.toptal.com/developers/sorting-algorithms" target="_blank" rel="noopener">https://www.toptal.com/developers/sorting-algorithms</a></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> JavaScript </tag>
+            
+            <tag> Algorithm </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Algorithms - Recursion</title>
       <link href="/td-blog/2020/02/02/data-structures-algorithms-8/"/>
       <url>/td-blog/2020/02/02/data-structures-algorithms-8/</url>
