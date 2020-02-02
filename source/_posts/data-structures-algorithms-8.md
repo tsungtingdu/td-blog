@@ -3,7 +3,7 @@ title: Algorithms - Recursion
 date: 2020-02-02 11:35:55
 tags:
 - JavaScript
-- Algorithms
+- Algorithm
 ---
 
 #### note
